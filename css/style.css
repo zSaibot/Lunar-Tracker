@@ -15,9 +15,10 @@ body {
   width: 100%; }
 
 .sm {
-  margin: 15px 15px 5px 15px;
   display: flex;
-  justify-content: space-between; }
+  justify-content: space-between;
+  align-items: center;
+  margin: 1%; }
 
 .sm-icon {
   color: #fff;
@@ -25,9 +26,6 @@ body {
 
 .title {
   font-size: 3em;
-  margin: 5px; }
-
-.display {
-  height: 40vh; }
+  margin: 0; }
 
 /*# sourceMappingURL=style.css.map */
